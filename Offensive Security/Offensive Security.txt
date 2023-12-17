@@ -2,7 +2,8 @@
 -- Red Team Field Manual (RTFM) --
 
 Red Team Field Manual v2.0
-·Open Source Intelligence (OSINT)`
+·Open Source Intelligence (OSINT)
+->OSINT Resources
 
 
 Linux Basics For Hackers
