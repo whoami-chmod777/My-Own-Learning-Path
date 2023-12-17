@@ -1,0 +1,68 @@
+
+-- LetsDefend --
+
+SOC Analyst Learning Path
+SOC Fundamentals
+
+
+-- TryHackMe --
+
+Introduction to Cyber Security
+
+Introduction to Cyber Security
+Intro to Offensive Security
+
+
+
+
+-- Labs --
+
+LetsDefend
+https://app.letsdefend.io/training/lessons/detecting-web-attacks-2
+
+CyberDefenders
+https://cyberdefenders.org/dashboard/
+
+Blue Team Labs
+https://blueteamlabs.online/home
+
+TryHackMe
+https://tryhackme.com/dashboard
+
+
+
+
+-- Study Materials --
+
+Malware-Traffic-Analysis
+https://www.malware-traffic-analysis.net/training-exercises.html
+
+Blue Team Level - Free Courses
+https://elearning.securityblue.team/home/courses/free-courses
+
+Junior Cybersecurity Analyst
+https://skillsforall.com/career-path/cybersecurity?courseLang=en-US
+
+INE
+https://my.ine.com/
+
+EC-Council
+https://codered.eccouncil.org/your-portal/home?logged=true
+
+Udemy
+https://www.udemy.com/
+
+
+
+
+-- Certification --
+
+Certified CyberDefender Blue Team
+https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/
+
+Blue team Level 1
+https://elearning.securityblue.team/home/certifications/blue-team-level-1#description
+
+
+
+
