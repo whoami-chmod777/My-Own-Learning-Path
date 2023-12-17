@@ -1,1 +1,105 @@
 
+-- Red Team Field Manual (RTFM) --
+
+Red Team Field Manual v2.0
+·Open Source Intelligence (OSINT)`
+
+
+Linux Basics For Hackers
+·
+
+Getting Started Becoming a Master Hacker
+·
+
+Cybersecurity Blue Team Toolkit
+·
+
+
+
+
+-- TryHackMe --
+
+Complete Beginner
+·Complete Beginner Introduction
+
+
+-- Wargames --
+
+Bandit
+·Level0
+
+
+
+
+TryHackMe
+https://tryhackme.com/dashboard
+
+TryHackMe
+https://app.hackthebox.com/home
+
+Attack Defense
+https://attackdefense.pentesteracademy.com/members
+
+Hacker101
+https://ctf.hacker101.com/ctf
+
+Wargames
+https://overthewire.org/wargames/
+
+PortSwigger
+https://portswigger.net/web-security
+
+HACKSPLAINING
+https://www.hacksplaining.com/owasp
+
+Virtual Hacking Labs
+https://www.virtualhackinglabs.com/?utm_source=ht&utm_medium=post&utm_campaign=ht
+
+PentesterLab
+https://pentesterlab.com/exercises#
+
+
+
+Google Cyber Security
+https://www.coursera.org/l
+
+Practical Ethical Hacking - The Complete Course
+https://academy.tcm-sec.com/courses/enrolled/1152300?__cf_chl_rt_tk=Rp4M4ZoKfQVszBcycR_cYTMHedSK96YdJHLgqF8Ky0E-1702826776-0-gaNycGzNEWU
+
+Ethical Hacker
+https://skillsforall.com/launch?id=80c156bc-84a4-47c9-a233-5eafe7bdde82&tab=curriculum&view=bdbcd9e2-bd0d-5af3-88fe-54154f064670
+
+
+
+The RedTeam Blueprint - A Unique Guide To Ethical Hacking
+https://www.udemy.com/course/the-redteam-blueprint/learn/lecture/14696190#overview
+
+The RedTeam Blueprint - A Unique Guide To Ethical Hacking
+https://codered.eccouncil.org/courseVideo/Master-ChatGPT-for-Ethical-Hacking?lessonId=c9fcd585-d7f4-4171-9f41-8e9d35448c55&finalAssessment=false&logged=true
+
+Nmap For Penetration Testing: Beginner To Advanced
+https://www.udemy.com/course/nmap-for-penetration-testing/learn/lecture/20620936#overview
+
+Getting Started with Wireshark: The Ultimate Hands-On Course
+https://www.udemy.com/course/wireshark-ultimate-hands-on-course/learn/lecture/31565002#overview
+
+Introduction to Dark Web, Anonymity, and Cryptocurrency
+https://codered.eccouncil.org/courseVideo/introduction-to-dark-web-anonymity-and-cryptocurrency?logged=true
+
+Windows Privilege Escalation for OSCP & Beyond!
+https://www.udemy.com/course/windows-privilege-escalation/
+
+Linux Privilege Escalation for OSCP & Beyond!
+https://www.udemy.com/course/linux-privilege-escalation/
+
+IntelTechniques
+https://www.inteltechniques.net/
+
+
+
+
+
+
+
+
+
