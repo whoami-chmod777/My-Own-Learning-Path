@@ -2,15 +2,15 @@
 -- LetsDefend --
 
 SOC Analyst Learning Path
-SOC Fundamentals
+Phishing Email Analysis
 
 
 -- TryHackMe --
 
 Introduction to Cyber Security
+Careers in Cyber
 
-Introduction to Cyber Security
-Intro to Offensive Security
+
 
 
 
